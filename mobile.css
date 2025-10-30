@@ -1,5 +1,5 @@
 
-@media screen and (max-wdith: 750px){
+@media screen and (max-wdith: 706px){
     header{
         padding: 0;
     }
@@ -103,6 +103,7 @@
         margin: 1rem .3rem;
     }
 }
+
 
 
 
