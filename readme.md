@@ -18,14 +18,12 @@ I specialize in full-stack web development using HTML, CSS, JavaScript, Python, 
 
 Explore some of my featured work:
 
-- **Eco Bez Packing Solution** – Branding and web presence for a sustainable packaging startup
-- **Beta Roofs** – Digital marketing and documentation for eco-roofing innovation
-- **Shine Potato Starch** – Product showcase and campaign strategy
+- **My personal portfolio
 - **Agam Wuha Digital Literacy Project** – Solar-powered computer training for rural students
 
 ## 🌐 Live Portfolio
 
-Visit the live site: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+Visit the live site: [https://belay-portfolio-site.vercel.app](https://belay-portfolio-site.vercel.app/.)
 
 ## 📬 Contact
 
@@ -33,11 +31,12 @@ Feel free to connect or collaborate:
 
 - 📧 Email: zewdieb21@gmail.com
 - 🌍 Location: Bahir Dar, Ethiopia
-- 🔗 GitHub: [Belayzewdie](https://github.com/Belayzewdie)
+- 🔗 GitHub: [Belayzewdie](https://github.com/Belayzewdie/My_portfolio_site)
 - 🔗 LinkedIn: [Belay Zewdie](https://www.linkedin.com/in/belay-zewdie-8534a636a)
 
 ---
 
 ## 🙌 Acknowledgments
+
 
 Thanks to FreeCodeCamp, Coursera, and the local community for supporting my learning journey and impact-driven projects.My_portfolio_site
